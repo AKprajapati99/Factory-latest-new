@@ -65,7 +65,6 @@ const RoutesComponent = () => {
         <Route path='/products/pir' element={<PIR/>} />   
         <Route path='/products/puf' element={<PUF/>} />   
         <Route path='/products/pufpir' element={<PUFPIR/>} />   
-
         
         
       </Routes>
