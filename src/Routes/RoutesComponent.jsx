@@ -66,8 +66,7 @@ const RoutesComponent = () => {
         <Route path='/products/puf' element={<PUF/>} />   
         <Route path='/products/pufpir' element={<PUFPIR/>} />   
         
-        
-      </Routes>
+               </Routes>
     </>
   );
 };
